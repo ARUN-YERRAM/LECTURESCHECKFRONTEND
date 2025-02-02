@@ -25,7 +25,7 @@ const LoginForm = () => {
             const response = await axios.post("http://localhost:5000/api/login",{username,password});
             console.log(response.data);
 
-            window.location.href = '/LECTURESCHECKFRONTEND/home';
+            window.location.href = 'LECTURESCHECKFRONTEND/home';
 
         }catch(error)
         {
@@ -78,7 +78,7 @@ const LoginForm = () => {
                                         <button type="submit" className="btn btn-dark" >LOGIN</button>
                                         
                                     </form>
-                                    
+                                    {/* {error && <p className="text-danger">{error}</p>} */}
                                 </div>
                             </div>
                         </div>

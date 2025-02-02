@@ -11,15 +11,15 @@ const FirstSem = () => {
     // const[nextpage,setnextpage] = useState(" ");
 
     const hangleNextPage1 = ()=>{
-         window.location.href="/LECTURESCHECKFRONTEND/COA"
+         window.location.href="/COA"
         
     }
     const hangleNextPage2 = () => {
-        window.location.href = "/LECTURESCHECKFRONTEND/ADE"
+        window.location.href = "/ADE"
 // 
     }
     const hangleNextPage3 = () => {
-        window.location.href = "/LECTURESCHECKFRONTEND/IML"
+        window.location.href = "/IML"
 
     }
    

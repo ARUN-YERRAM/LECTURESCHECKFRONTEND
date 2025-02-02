@@ -19,7 +19,7 @@ const FirstSem = () => {
 // 
     }
     const hangleNextPage3 = () => {
-        window.location.href = "/LECTURESCHECKFRONTEND/IML"
+        window.location.href = "//LECTURESCHECKFRONTEND/IML"
 
     }
    

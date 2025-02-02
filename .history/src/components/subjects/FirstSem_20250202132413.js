@@ -15,11 +15,11 @@ const FirstSem = () => {
         
     }
     const hangleNextPage2 = () => {
-        window.location.href = "/LECTURESCHECKFRONTEND/ADE"
+        window.location.href = "/ADE"
 // 
     }
     const hangleNextPage3 = () => {
-        window.location.href = "/LECTURESCHECKFRONTEND/IML"
+        window.location.href = "/IML"
 
     }
    

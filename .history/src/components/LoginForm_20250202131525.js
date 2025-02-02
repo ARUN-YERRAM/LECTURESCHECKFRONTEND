@@ -78,7 +78,7 @@ const LoginForm = () => {
                                         <button type="submit" className="btn btn-dark" >LOGIN</button>
                                         
                                     </form>
-                                    
+                                    {/* {error && <p className="text-danger">{error}</p>} */}
                                 </div>
                             </div>
                         </div>

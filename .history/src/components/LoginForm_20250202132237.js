@@ -47,7 +47,7 @@ const LoginForm = () => {
                 <div className="container-fluid">
                     {/* <span class="navbar-brand mb-0 h1">Dune state University</span> */}
                     <a className="navbar-brand " href="#" style={{ color: customSecondaryColor }}>
-                        <img src="/dune.jpg" alt="" width="50" height="40" className="d-inline-block align-text-top " />
+                        <img src="./dune.jpg" alt="" width="50" height="40" className="d-inline-block align-text-top " />
                         <br></br>
                         Dune state University
                     </a>
