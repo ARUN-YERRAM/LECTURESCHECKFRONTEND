@@ -71,7 +71,7 @@ import RelevanceChart from './components/RelevanceChart';
 function App() {
   return (
     <div className="App">
-      <Router basename="/LECTURESCHECKFRONTEND">  {/* Replace "/your-base-url" with the desired base URL */}
+      <Router basename="/your-base-url">  {/* Replace "/your-base-url" with the desired base URL */}
         <Routes>
           <Route path='/' element={<LoginForm />} />
           <Route path='/home' element={<Home />} />

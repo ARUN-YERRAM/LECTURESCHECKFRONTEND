@@ -43,6 +43,7 @@ const Sidebar = () => {
                         <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
                     </div>
                 </li>
+
             </ul>
         </div>
     );

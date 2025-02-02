@@ -32,17 +32,18 @@ const Sidebar = () => {
                 <li className="dropdown">
                     <a href="javascript:void(0)" className="dropbtn">3rd Year</a>
                     <div className="dropdown-content">
-                        <a href="/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
-                        <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
+                        <a href="=/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
+                        <a href="">Sem 2</a>
                     </div>
                 </li>
                 <li className="dropdown">
                     <a href="javascript:void(0)" className="dropbtn">4th Year</a>
                     <div className="dropdown-content">
-                        <a href="/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
-                        <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
+                        <a href="">Sem 1</a>
+                        <a href="">Sem 2</a>
                     </div>
                 </li>
+
             </ul>
         </div>
     );

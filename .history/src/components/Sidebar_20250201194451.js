@@ -24,25 +24,26 @@ const Sidebar = () => {
                 <li className='dropdown'>
                     <a href='javascript:void(0)' className="dropbtn">2nd Year</a>
                     <div className="dropdown-content">
-                        <a href="/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
-                        <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
+                        <a href="/FirstSem">Sem 1</a>
+                        <a href="/SecondSem">Sem 2</a>
                     </div>
 
                 </li>
                 <li className="dropdown">
                     <a href="javascript:void(0)" className="dropbtn">3rd Year</a>
                     <div className="dropdown-content">
-                        <a href="/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
-                        <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
+                        <a href="#">sem 1</a>
+                        <a href="">sem 2</a>
                     </div>
                 </li>
                 <li className="dropdown">
                     <a href="javascript:void(0)" className="dropbtn">4th Year</a>
                     <div className="dropdown-content">
-                        <a href="/LECTURESCHECKFRONTEND/FirstSem">Sem 1</a>
-                        <a href="/LECTURESCHECKFRONTEND/SecondSem">Sem 2</a>
+                        <a href="#">sem 1</a>
+                        <a href="#">sem 2</a>
                     </div>
                 </li>
+
             </ul>
         </div>
     );
