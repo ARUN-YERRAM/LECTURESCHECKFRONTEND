@@ -12,6 +12,7 @@ const About = () => {
       <div className="about-content">
         <p>The Lecture Material Analysis System (LMAS) is an innovative platform designed to enhance the educational experience by providing comprehensive analysis and insights into lecture materials uploaded to the Learning Management System (LMS). Developed with the needs of both professors and students in mind, LMAS offers a range of powerful features aimed at improving content delivery, understanding, and engagement.</p>
         <h3>Key Features:</h3>
+
         <ul>
           <li>Lecture Material Upload</li>
           <li>LLM Video Analysis</li>

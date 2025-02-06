@@ -72,7 +72,7 @@ function App() {
   return (
     <>
     
-    {/* <div className="App"> */}
+   
       <Router basename="/LECTURESCHECKFRONTEND"> 
         <Routes>
           <Route path='/' element={<LoginForm />} />
@@ -94,7 +94,7 @@ function App() {
           <Route path='/RelevanceChart' element={<RelevanceChart />} />
         </Routes>
       </Router>
-    {/* </div> */}
+    
     </>
   );
 }

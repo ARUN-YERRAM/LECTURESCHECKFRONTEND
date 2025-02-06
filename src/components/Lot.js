@@ -13,6 +13,7 @@ function Lot() {
       setPdfs(JSON.parse(pdfsData));
     }
   }, [location.search]);
+  
 
   const showPdf = (pdf) => {
     window.open(`http://localhost:5000/files/${pdf}`, "_blank", "noreferrer");
