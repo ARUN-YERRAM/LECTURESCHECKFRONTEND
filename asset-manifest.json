@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LECTURESCHECKFRONTEND/static/css/main.ce91ef0d.css",
-    "main.js": "/LECTURESCHECKFRONTEND/static/js/main.6cfc3021.js",
+    "main.js": "/LECTURESCHECKFRONTEND/static/js/main.f709e05b.js",
     "static/js/453.4543d57c.chunk.js": "/LECTURESCHECKFRONTEND/static/js/453.4543d57c.chunk.js",
     "index.html": "/LECTURESCHECKFRONTEND/index.html",
     "main.ce91ef0d.css.map": "/LECTURESCHECKFRONTEND/static/css/main.ce91ef0d.css.map",
-    "main.6cfc3021.js.map": "/LECTURESCHECKFRONTEND/static/js/main.6cfc3021.js.map",
+    "main.f709e05b.js.map": "/LECTURESCHECKFRONTEND/static/js/main.f709e05b.js.map",
     "453.4543d57c.chunk.js.map": "/LECTURESCHECKFRONTEND/static/js/453.4543d57c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce91ef0d.css",
-    "static/js/main.6cfc3021.js"
+    "static/js/main.f709e05b.js"
   ]
 }
